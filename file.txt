@@ -1,0 +1,315 @@
+!!!Undead fight against People!!!
+
+People is attacking, step #1:
+ACTION NUMBER 1: People's magician attack Undead's zombie #1; ATTACK CONTENT: People's magician has made damage by magic
+Undead's zombie #1 live level after attack became 96.0 HP
+ACTION NUMBER 2: People's crossbowman #3 attack Undead's hunter #2; ATTACK CONTENT: People's crossbowman #3 attack an enemy
+Undead's hunter #2 live level after attack became 97.0 HP
+ACTION NUMBER 3: People's warrior #2 attack Undead's zombie #2; ATTACK CONTENT: People's warrior #2 has attacked by sword
+Undead's zombie #2 live level after attack became 82.0 HP
+ACTION NUMBER 4: People's warrior #1 attack Undead's hunter #2; ATTACK CONTENT: People's warrior #1 has attacked by sword
+Undead's hunter #2 live level after attack became 79.0 HP
+ACTION NUMBER 5: People's crossbowman #1 attack Undead's zombie #3; ATTACK CONTENT: People's crossbowman #1 attack an enemy
+Undead's zombie #3 live level after attack became 97.0 HP
+ACTION NUMBER 6: People's crossbowman #2 attack Undead's zombie #4; ATTACK CONTENT: People's crossbowman #2 attack an enemy
+Undead's zombie #4 live level after attack became 97.0 HP
+ACTION NUMBER 7: People's warrior #3 attack Undead's hunter #1; ATTACK CONTENT: People's warrior #3 has attacked by sword
+Undead's hunter #1 live level after attack became 82.0 HP
+ACTION NUMBER 8: People's warrior #4 attack Undead's zombie #4; ATTACK CONTENT: People's warrior #4 has attacked by sword
+Undead's zombie #4 live level after attack became 79.0 HP
+-----------------------------------
+Undead have 8 alive heroes
+People have 8 alive heroes
+
+Undead is attacking, step #2:
+ACTION NUMBER 9: Undead's necromancer attack People's crossbowman #2; ATTACK CONTENT: Undead's necromancer has reduced force of some Enemy at next attack
+ACTION NUMBER 10: Undead's zombie #1 attack People's crossbowman #1; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+People's crossbowman #1 live level after attack became 82.0 HP
+ACTION NUMBER 11: Undead's hunter #1 attack People's crossbowman #3; ATTACK CONTENT: Undead's hunter #1 attack an enemy
+People's crossbowman #3 live level after attack became 98.0 HP
+ACTION NUMBER 12: Undead's zombie #4 attack People's warrior #1; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+People's warrior #1 live level after attack became 82.0 HP
+ACTION NUMBER 13: Undead's hunter #3 attack People's crossbowman #2; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+People's crossbowman #2 live level after attack became 98.0 HP
+ACTION NUMBER 14: Undead's zombie #2 attack People's warrior #1; ATTACK CONTENT: Undead's zombie #2 has attacked by spear
+People's warrior #1 live level after attack became 64.0 HP
+ACTION NUMBER 15: Undead's zombie #3 attack People's magician; ATTACK CONTENT: Undead's zombie #3 has attacked by spear
+People's magician live level after attack became 82.0 HP
+ACTION NUMBER 16: Undead's hunter #2 attack People's crossbowman #2; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+People's crossbowman #2 live level after attack became 96.0 HP
+-----------------------------------
+Undead have 8 alive heroes
+People have 8 alive heroes
+
+People is attacking, step #3:
+ACTION NUMBER 17: People's magician attack Undead's hunter #1; ATTACK CONTENT: People's magician has made damage by magic
+Undead's hunter #1 live level after attack became 78.0 HP
+The next fighter has lower force due to Necromancer bane:
+ACTION NUMBER 18: People's magician attack Undead's hunter #1; ATTACK CONTENT: People's magician has made damage by magic
+Undead's hunter #1 live level after attack became 76.0 HP
+Force of People's magician was reduced by Necromancer bane
+ACTION NUMBER 19: People's crossbowman #2 attack Undead's hunter #3; ATTACK CONTENT: People's crossbowman #2 attack an enemy
+Undead's hunter #3 live level after attack became 97.0 HP
+ACTION NUMBER 20: People's crossbowman #3 attack Undead's hunter #2; ATTACK CONTENT: People's crossbowman #3 attack an enemy
+Undead's hunter #2 live level after attack became 76.0 HP
+ACTION NUMBER 21: People's crossbowman #1 attack Undead's zombie #3; ATTACK CONTENT: People's crossbowman #1 attack an enemy
+Undead's zombie #3 live level after attack became 94.0 HP
+ACTION NUMBER 22: People's warrior #3 attack Undead's hunter #1; ATTACK CONTENT: People's warrior #3 has attacked by sword
+Undead's hunter #1 live level after attack became 58.0 HP
+ACTION NUMBER 23: People's warrior #2 attack Undead's hunter #3; ATTACK CONTENT: People's warrior #2 has attacked by sword
+Undead's hunter #3 live level after attack became 79.0 HP
+ACTION NUMBER 24: People's warrior #1 attack Undead's zombie #2; ATTACK CONTENT: People's warrior #1 has attacked by sword
+Undead's zombie #2 live level after attack became 64.0 HP
+ACTION NUMBER 25: People's warrior #4 attack Undead's zombie #3; ATTACK CONTENT: People's warrior #4 has attacked by sword
+Undead's zombie #3 live level after attack became 76.0 HP
+-----------------------------------
+Undead have 8 alive heroes
+People have 8 alive heroes
+
+People is attacking, step #4:
+ACTION NUMBER 26: People's magician attack Undead's necromancer; ATTACK CONTENT: People's magician has made improvements to People's warrior #2
+The next fighter from privilege group:
+ACTION NUMBER 27: People's warrior #2 attack Undead's hunter #1; ATTACK CONTENT: People's warrior #2 has attacked by sword
+Undead's hunter #1 live level after attack became 31.0 HP
+ACTION NUMBER 28: People's warrior #3 attack Undead's hunter #2; ATTACK CONTENT: People's warrior #3 has attacked by sword
+Undead's hunter #2 live level after attack became 58.0 HP
+ACTION NUMBER 29: People's crossbowman #1 attack Undead's hunter #1; ATTACK CONTENT: People's crossbowman #1 attack an enemy
+Undead's hunter #1 live level after attack became 28.0 HP
+ACTION NUMBER 30: People's crossbowman #2 attack Undead's zombie #1; ATTACK CONTENT: People's crossbowman #2 attack an enemy
+Undead's zombie #1 live level after attack became 93.0 HP
+ACTION NUMBER 31: People's warrior #1 attack Undead's hunter #1; ATTACK CONTENT: People's warrior #1 has attacked by sword
+Undead's hunter #1 live level after attack became 10.0 HP
+ACTION NUMBER 32: People's crossbowman #3 attack Undead's hunter #1; ATTACK CONTENT: People's crossbowman #3 attack an enemy
+Undead's hunter #1 live level after attack became 7.0 HP
+ACTION NUMBER 33: People's warrior #4 attack Undead's zombie #1; ATTACK CONTENT: People's warrior #4 has attacked by sword
+Undead's zombie #1 live level after attack became 75.0 HP
+-----------------------------------
+Undead have 8 alive heroes
+People have 8 alive heroes
+
+People is attacking, step #5:
+ACTION NUMBER 34: People's magician attack Undead's zombie #2; ATTACK CONTENT: People's magician has made damage by magic
+Undead's zombie #2 live level after attack became 60.0 HP
+ACTION NUMBER 35: People's warrior #3 attack Undead's zombie #2; ATTACK CONTENT: People's warrior #3 has attacked by sword
+Undead's zombie #2 live level after attack became 42.0 HP
+ACTION NUMBER 36: People's crossbowman #2 attack Undead's hunter #2; ATTACK CONTENT: People's crossbowman #2 attack an enemy
+Undead's hunter #2 live level after attack became 55.0 HP
+ACTION NUMBER 37: People's warrior #2 attack Undead's hunter #2; ATTACK CONTENT: People's warrior #2 has attacked by sword
+Undead's hunter #2 live level after attack became 37.0 HP
+ACTION NUMBER 38: People's crossbowman #1 attack Undead's zombie #1; ATTACK CONTENT: People's crossbowman #1 attack an enemy
+Undead's zombie #1 live level after attack became 72.0 HP
+ACTION NUMBER 39: People's warrior #4 attack Undead's zombie #3; ATTACK CONTENT: People's warrior #4 has attacked by sword
+Undead's zombie #3 live level after attack became 58.0 HP
+ACTION NUMBER 40: People's crossbowman #3 attack Undead's zombie #2; ATTACK CONTENT: People's crossbowman #3 attack an enemy
+Undead's zombie #2 live level after attack became 39.0 HP
+ACTION NUMBER 41: People's warrior #1 attack Undead's zombie #3; ATTACK CONTENT: People's warrior #1 has attacked by sword
+Undead's zombie #3 live level after attack became 40.0 HP
+-----------------------------------
+Undead have 8 alive heroes
+People have 8 alive heroes
+
+People is attacking, step #6:
+ACTION NUMBER 42: People's magician attack Undead's hunter #1; ATTACK CONTENT: People's magician has made damage by magic
+Undead's hunter #1 live level after attack became 3.0 HP
+ACTION NUMBER 43: People's crossbowman #2 attack Undead's necromancer; ATTACK CONTENT: People's crossbowman #2 attack an enemy
+Undead's necromancer live level after attack became 97.0 HP
+ACTION NUMBER 44: People's warrior #4 attack Undead's zombie #2; ATTACK CONTENT: People's warrior #4 has attacked by sword
+Undead's zombie #2 live level after attack became 21.0 HP
+ACTION NUMBER 45: People's warrior #1 attack Undead's zombie #2; ATTACK CONTENT: People's warrior #1 has attacked by sword
+Undead's zombie #2 live level after attack became 3.0 HP
+ACTION NUMBER 46: People's crossbowman #1 attack Undead's hunter #2; ATTACK CONTENT: People's crossbowman #1 attack an enemy
+Undead's hunter #2 live level after attack became 34.0 HP
+ACTION NUMBER 47: People's crossbowman #3 attack Undead's zombie #1; ATTACK CONTENT: People's crossbowman #3 attack an enemy
+Undead's zombie #1 live level after attack became 69.0 HP
+ACTION NUMBER 48: People's warrior #3 attack Undead's hunter #1; ATTACK CONTENT: People's warrior #3 has attacked by sword
+Undead's hunter #1 live level after attack became -15.0 HP
+Undead's hunter #1 is killed
+ACTION NUMBER 49: People's warrior #2 attack Undead's zombie #1; ATTACK CONTENT: People's warrior #2 has attacked by sword
+Undead's zombie #1 live level after attack became 51.0 HP
+-----------------------------------
+Undead have 7 alive heroes
+People have 8 alive heroes
+
+Undead is attacking, step #7:
+ACTION NUMBER 50: Undead's necromancer attack People's warrior #2; ATTACK CONTENT: Undead's necromancer has attacked
+People's warrior #2 live level after attack became 95.0 HP
+ACTION NUMBER 51: Undead's zombie #4 attack People's warrior #3; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+People's warrior #3 live level after attack became 82.0 HP
+ACTION NUMBER 52: Undead's zombie #1 attack People's crossbowman #2; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+People's crossbowman #2 live level after attack became 78.0 HP
+ACTION NUMBER 53: Undead's zombie #3 attack People's warrior #1; ATTACK CONTENT: Undead's zombie #3 has attacked by spear
+People's warrior #1 live level after attack became 46.0 HP
+ACTION NUMBER 54: Undead's hunter #3 attack People's warrior #2; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+People's warrior #2 live level after attack became 93.0 HP
+ACTION NUMBER 55: Undead's hunter #2 attack People's warrior #4; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+People's warrior #4 live level after attack became 98.0 HP
+ACTION NUMBER 56: Undead's zombie #2 attack People's crossbowman #1; ATTACK CONTENT: Undead's zombie #2 has attacked by spear
+People's crossbowman #1 live level after attack became 64.0 HP
+-----------------------------------
+Undead have 7 alive heroes
+People have 8 alive heroes
+
+People is attacking, step #8:
+ACTION NUMBER 57: People's magician attack Undead's zombie #4; ATTACK CONTENT: People's magician has made improvements to People's crossbowman #3
+The next fighter from privilege group:
+ACTION NUMBER 58: People's crossbowman #3 attack Undead's zombie #4; ATTACK CONTENT: People's crossbowman #3 attack an enemy
+Undead's zombie #4 live level after attack became 74.5 HP
+ACTION NUMBER 59: People's crossbowman #2 attack Undead's hunter #3; ATTACK CONTENT: People's crossbowman #2 attack an enemy
+Undead's hunter #3 live level after attack became 76.0 HP
+ACTION NUMBER 60: People's warrior #1 attack Undead's zombie #2; ATTACK CONTENT: People's warrior #1 has attacked by sword
+Undead's zombie #2 live level after attack became -15.0 HP
+Undead's zombie #2 is killed
+ACTION NUMBER 61: People's warrior #2 attack Undead's zombie #3; ATTACK CONTENT: People's warrior #2 has attacked by sword
+Undead's zombie #3 live level after attack became 22.0 HP
+ACTION NUMBER 62: People's crossbowman #1 attack Undead's necromancer; ATTACK CONTENT: People's crossbowman #1 attack an enemy
+Undead's necromancer live level after attack became 94.0 HP
+ACTION NUMBER 63: People's warrior #4 attack Undead's hunter #3; ATTACK CONTENT: People's warrior #4 has attacked by sword
+Undead's hunter #3 live level after attack became 58.0 HP
+ACTION NUMBER 64: People's warrior #3 attack Undead's zombie #3; ATTACK CONTENT: People's warrior #3 has attacked by sword
+Undead's zombie #3 live level after attack became 4.0 HP
+-----------------------------------
+Undead have 6 alive heroes
+People have 8 alive heroes
+
+People is attacking, step #9:
+ACTION NUMBER 65: People's magician attack Undead's hunter #2; ATTACK CONTENT: People's magician has made damage by magic
+Undead's hunter #2 live level after attack became 30.0 HP
+ACTION NUMBER 66: People's warrior #2 attack Undead's necromancer; ATTACK CONTENT: People's warrior #2 has attacked by sword
+Undead's necromancer live level after attack became 76.0 HP
+ACTION NUMBER 67: People's crossbowman #2 attack Undead's hunter #2; ATTACK CONTENT: People's crossbowman #2 attack an enemy
+Undead's hunter #2 live level after attack became 27.0 HP
+ACTION NUMBER 68: People's warrior #3 attack Undead's zombie #4; ATTACK CONTENT: People's warrior #3 has attacked by sword
+Undead's zombie #4 live level after attack became 56.5 HP
+ACTION NUMBER 69: People's crossbowman #1 attack Undead's zombie #3; ATTACK CONTENT: People's crossbowman #1 attack an enemy
+Undead's zombie #3 live level after attack became 1.0 HP
+ACTION NUMBER 70: People's warrior #1 attack Undead's necromancer; ATTACK CONTENT: People's warrior #1 has attacked by sword
+Undead's necromancer live level after attack became 58.0 HP
+ACTION NUMBER 71: People's crossbowman #3 attack Undead's hunter #2; ATTACK CONTENT: People's crossbowman #3 attack an enemy
+Undead's hunter #2 live level after attack became 24.0 HP
+ACTION NUMBER 72: People's warrior #4 attack Undead's zombie #1; ATTACK CONTENT: People's warrior #4 has attacked by sword
+Undead's zombie #1 live level after attack became 33.0 HP
+-----------------------------------
+Undead have 6 alive heroes
+People have 8 alive heroes
+
+People is attacking, step #10:
+ACTION NUMBER 73: People's magician attack Undead's zombie #3; ATTACK CONTENT: People's magician has made damage by magic
+Undead's zombie #3 live level after attack became -3.0 HP
+Undead's zombie #3 is killed
+ACTION NUMBER 74: People's crossbowman #2 attack Undead's necromancer; ATTACK CONTENT: People's crossbowman #2 attack an enemy
+Undead's necromancer live level after attack became 55.0 HP
+ACTION NUMBER 75: People's crossbowman #3 attack Undead's zombie #1; ATTACK CONTENT: People's crossbowman #3 attack an enemy
+Undead's zombie #1 live level after attack became 30.0 HP
+ACTION NUMBER 76: People's crossbowman #1 attack Undead's zombie #1; ATTACK CONTENT: People's crossbowman #1 attack an enemy
+Undead's zombie #1 live level after attack became 27.0 HP
+ACTION NUMBER 77: People's warrior #3 attack Undead's hunter #3; ATTACK CONTENT: People's warrior #3 has attacked by sword
+Undead's hunter #3 live level after attack became 40.0 HP
+ACTION NUMBER 78: People's warrior #2 attack Undead's zombie #1; ATTACK CONTENT: People's warrior #2 has attacked by sword
+Undead's zombie #1 live level after attack became 9.0 HP
+ACTION NUMBER 79: People's warrior #1 attack Undead's necromancer; ATTACK CONTENT: People's warrior #1 has attacked by sword
+Undead's necromancer live level after attack became 37.0 HP
+ACTION NUMBER 80: People's warrior #4 attack Undead's necromancer; ATTACK CONTENT: People's warrior #4 has attacked by sword
+Undead's necromancer live level after attack became 19.0 HP
+-----------------------------------
+Undead have 5 alive heroes
+People have 8 alive heroes
+
+Undead is attacking, step #11:
+ACTION NUMBER 81: Undead's necromancer attack People's crossbowman #2; ATTACK CONTENT: Undead's necromancer has reduced force of some Enemy at next attack
+ACTION NUMBER 82: Undead's zombie #4 attack People's crossbowman #1; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+People's crossbowman #1 live level after attack became 46.0 HP
+ACTION NUMBER 83: Undead's zombie #1 attack People's magician; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+People's magician live level after attack became 64.0 HP
+ACTION NUMBER 84: Undead's hunter #3 attack People's crossbowman #2; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+People's crossbowman #2 live level after attack became 76.0 HP
+ACTION NUMBER 85: Undead's hunter #2 attack People's warrior #4; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+People's warrior #4 live level after attack became 96.0 HP
+-----------------------------------
+Undead have 5 alive heroes
+People have 8 alive heroes
+
+Undead is attacking, step #12:
+ACTION NUMBER 86: Undead's necromancer attack People's warrior #2; ATTACK CONTENT: Undead's necromancer has reduced force of some Enemy at next attack
+ACTION NUMBER 87: Undead's hunter #3 attack People's crossbowman #1; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+People's crossbowman #1 live level after attack became 44.0 HP
+ACTION NUMBER 88: Undead's hunter #2 attack People's warrior #3; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+People's warrior #3 live level after attack became 80.0 HP
+ACTION NUMBER 89: Undead's zombie #4 attack People's crossbowman #1; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+People's crossbowman #1 live level after attack became 26.0 HP
+ACTION NUMBER 90: Undead's zombie #1 attack People's warrior #3; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+People's warrior #3 live level after attack became 62.0 HP
+-----------------------------------
+Undead have 5 alive heroes
+People have 8 alive heroes
+
+People is attacking, step #13:
+ACTION NUMBER 91: People's magician attack Undead's hunter #2; ATTACK CONTENT: People's magician has made improvements to People's magician
+The next fighter from privilege group:
+ACTION NUMBER 92: People's magician attack Undead's hunter #3; ATTACK CONTENT: People's magician has made improvements to People's warrior #1
+The next fighter from privilege group:
+ACTION NUMBER 93: People's warrior #1 attack Undead's hunter #3; ATTACK CONTENT: People's warrior #1 has attacked by sword
+Undead's hunter #3 live level after attack became 13.0 HP
+The next fighter has lower force due to Necromancer bane:
+ACTION NUMBER 94: People's warrior #3 attack Undead's hunter #2; ATTACK CONTENT: People's warrior #3 has attacked by sword
+Undead's hunter #2 live level after attack became 15.0 HP
+Force of People's warrior #3 was reduced by Necromancer bane
+ACTION NUMBER 95: People's warrior #2 attack Undead's hunter #2; ATTACK CONTENT: People's warrior #2 has attacked by sword
+Undead's hunter #2 live level after attack became -3.0 HP
+Undead's hunter #2 is killed
+ACTION NUMBER 96: People's warrior #3 attack Undead's necromancer; ATTACK CONTENT: People's warrior #3 has attacked by sword
+Undead's necromancer live level after attack became 1.0 HP
+ACTION NUMBER 97: People's warrior #1 attack Undead's zombie #4; ATTACK CONTENT: People's warrior #1 has attacked by sword
+Undead's zombie #4 live level after attack became 38.5 HP
+ACTION NUMBER 98: People's crossbowman #2 attack Undead's zombie #4; ATTACK CONTENT: People's crossbowman #2 attack an enemy
+Undead's zombie #4 live level after attack became 35.5 HP
+ACTION NUMBER 99: People's crossbowman #1 attack Undead's necromancer; ATTACK CONTENT: People's crossbowman #1 attack an enemy
+Undead's necromancer live level after attack became -2.0 HP
+Undead's necromancer is killed
+ACTION NUMBER 100: People's crossbowman #3 attack Undead's zombie #4; ATTACK CONTENT: People's crossbowman #3 attack an enemy
+Undead's zombie #4 live level after attack became 32.5 HP
+ACTION NUMBER 101: People's warrior #4 attack Undead's zombie #4; ATTACK CONTENT: People's warrior #4 has attacked by sword
+Undead's zombie #4 live level after attack became 14.5 HP
+-----------------------------------
+Undead have 3 alive heroes
+People have 8 alive heroes
+
+Undead is attacking, step #14:
+ACTION NUMBER 102: Undead's zombie #1 attack People's warrior #3; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+People's warrior #3 live level after attack became 44.0 HP
+ACTION NUMBER 103: Undead's hunter #3 attack People's warrior #1; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+People's warrior #1 live level after attack became 44.0 HP
+ACTION NUMBER 104: Undead's zombie #4 attack People's warrior #4; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+People's warrior #4 live level after attack became 78.0 HP
+-----------------------------------
+Undead have 3 alive heroes
+People have 8 alive heroes
+
+Undead is attacking, step #15:
+ACTION NUMBER 105: Undead's hunter #3 attack People's warrior #1; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+People's warrior #1 live level after attack became 42.0 HP
+ACTION NUMBER 106: Undead's zombie #4 attack People's crossbowman #3; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+People's crossbowman #3 live level after attack became 80.0 HP
+ACTION NUMBER 107: Undead's zombie #1 attack People's warrior #1; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+People's warrior #1 live level after attack became 24.0 HP
+-----------------------------------
+Undead have 3 alive heroes
+People have 8 alive heroes
+
+People is attacking, step #16:
+ACTION NUMBER 108: People's magician attack Undead's zombie #4; ATTACK CONTENT: People's magician has made improvements to People's warrior #1
+The next fighter from privilege group:
+ACTION NUMBER 109: People's warrior #1 attack Undead's zombie #4; ATTACK CONTENT: People's warrior #1 has attacked by sword
+Undead's zombie #4 live level after attack became -12.5 HP
+Undead's zombie #4 is killed
+ACTION NUMBER 110: People's crossbowman #2 attack Undead's zombie #1; ATTACK CONTENT: People's crossbowman #2 attack an enemy
+Undead's zombie #1 live level after attack became 6.0 HP
+ACTION NUMBER 111: People's warrior #3 attack Undead's zombie #1; ATTACK CONTENT: People's warrior #3 has attacked by sword
+Undead's zombie #1 live level after attack became -12.0 HP
+Undead's zombie #1 is killed
+ACTION NUMBER 112: People's crossbowman #3 attack Undead's hunter #3; ATTACK CONTENT: People's crossbowman #3 attack an enemy
+Undead's hunter #3 live level after attack became 10.0 HP
+ACTION NUMBER 113: People's warrior #4 attack Undead's hunter #3; ATTACK CONTENT: People's warrior #4 has attacked by sword
+Undead's hunter #3 live level after attack became -8.0 HP
+Undead's hunter #3 is killed
+
+!!!People are winners!!!
