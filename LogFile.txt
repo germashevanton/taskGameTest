@@ -1,0 +1,454 @@
+!!!Undead fight against Elf!!!
+ 
+Elf is attacking, step #1:
+ACTION NUMBER 1: Elf's magician attack Undead's necromancer; ATTACK CONTENT: Elf's magician has made improvements to Elf's warrior #2
+The next fighter from privilege group:
+ACTION NUMBER 2: Elf's warrior #2 attack Undead's hunter #1; ATTACK CONTENT: Elf's warrior #2 has attacked by sword
+Undead's hunter #1 live level after attack became 77.5 HP
+ACTION NUMBER 3: Elf's warrior #3 attack Undead's hunter #1; ATTACK CONTENT: Elf's warrior #3 has attacked by sword
+Undead's hunter #1 live level after attack became 62.5 HP
+ACTION NUMBER 4: Elf's warrior #4 attack Undead's hunter #2; ATTACK CONTENT: Elf's warrior #4 has attacked by sword
+Undead's hunter #2 live level after attack became 85.0 HP
+ACTION NUMBER 5: Elf's archer #3 attack Undead's zombie #3; ATTACK CONTENT: Elf's archer #3 attack an enemy
+Undead's zombie #3 live level after attack became 97.0 HP
+ACTION NUMBER 6: Elf's warrior #1 attack Undead's zombie #3; ATTACK CONTENT: Elf's warrior #1 has attacked by sword
+Undead's zombie #3 live level after attack became 82.0 HP
+ACTION NUMBER 7: Elf's archer #2 attack Undead's zombie #3; ATTACK CONTENT: Elf's archer #2 attack an enemy
+Undead's zombie #3 live level after attack became 79.0 HP
+ACTION NUMBER 8: Elf's archer #1 attack Undead's zombie #3; ATTACK CONTENT: Elf's archer #1 attack an enemy
+Undead's zombie #3 live level after attack became 76.0 HP
+-----------------------------------
+Undead have 8 alive heroes
+Elf have 8 alive heroes
+ 
+Undead is attacking, step #2:
+ACTION NUMBER 9: Undead's necromancer attack Elf's archer #1; ATTACK CONTENT: Undead's necromancer has attacked
+Elf's archer #1 live level after attack became 95.0 HP
+ACTION NUMBER 10: Undead's hunter #2 attack Elf's warrior #4; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+Elf's warrior #4 live level after attack became 98.0 HP
+ACTION NUMBER 11: Undead's hunter #1 attack Elf's warrior #1; ATTACK CONTENT: Undead's hunter #1 attack an enemy
+Elf's warrior #1 live level after attack became 98.0 HP
+ACTION NUMBER 12: Undead's zombie #4 attack Elf's archer #1; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+Elf's archer #1 live level after attack became 77.0 HP
+ACTION NUMBER 13: Undead's zombie #3 attack Elf's magician; ATTACK CONTENT: Undead's zombie #3 has attacked by spear
+Elf's magician live level after attack became 82.0 HP
+ACTION NUMBER 14: Undead's zombie #1 attack Elf's warrior #3; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+Elf's warrior #3 live level after attack became 82.0 HP
+ACTION NUMBER 15: Undead's zombie #2 attack Elf's warrior #2; ATTACK CONTENT: Undead's zombie #2 has attacked by spear
+Elf's warrior #2 live level after attack became 82.0 HP
+ACTION NUMBER 16: Undead's hunter #3 attack Elf's warrior #4; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+Elf's warrior #4 live level after attack became 96.0 HP
+-----------------------------------
+Undead have 8 alive heroes
+Elf have 8 alive heroes
+ 
+Elf is attacking, step #3:
+ACTION NUMBER 17: Elf's magician attack Undead's necromancer; ATTACK CONTENT: Elf's magician has made improvements to Elf's archer #1
+The next fighter from privilege group:
+ACTION NUMBER 18: Elf's archer #1 attack Undead's zombie #3; ATTACK CONTENT: Elf's archer #1 attack an enemy
+Undead's zombie #3 live level after attack became 71.5 HP
+ACTION NUMBER 19: Elf's warrior #4 attack Undead's hunter #1; ATTACK CONTENT: Elf's warrior #4 has attacked by sword
+Undead's hunter #1 live level after attack became 47.5 HP
+ACTION NUMBER 20: Elf's warrior #3 attack Undead's hunter #1; ATTACK CONTENT: Elf's warrior #3 has attacked by sword
+Undead's hunter #1 live level after attack became 32.5 HP
+ACTION NUMBER 21: Elf's archer #2 attack Undead's zombie #1; ATTACK CONTENT: Elf's archer #2 attack an enemy
+Undead's zombie #1 live level after attack became 97.0 HP
+ACTION NUMBER 22: Elf's archer #3 attack Undead's zombie #1; ATTACK CONTENT: Elf's archer #3 attack an enemy
+Undead's zombie #1 live level after attack became 94.0 HP
+ACTION NUMBER 23: Elf's warrior #2 attack Undead's zombie #1; ATTACK CONTENT: Elf's warrior #2 has attacked by sword
+Undead's zombie #1 live level after attack became 79.0 HP
+ACTION NUMBER 24: Elf's warrior #1 attack Undead's necromancer; ATTACK CONTENT: Elf's warrior #1 has attacked by sword
+Undead's necromancer live level after attack became 85.0 HP
+-----------------------------------
+Undead have 8 alive heroes
+Elf have 8 alive heroes
+ 
+Elf is attacking, step #4:
+ACTION NUMBER 25: Elf's magician attack Undead's zombie #3; ATTACK CONTENT: Elf's magician has made damage by magic
+Undead's zombie #3 live level after attack became 61.5 HP
+ACTION NUMBER 26: Elf's warrior #1 attack Undead's zombie #3; ATTACK CONTENT: Elf's warrior #1 has attacked by sword
+Undead's zombie #3 live level after attack became 46.5 HP
+ACTION NUMBER 27: Elf's archer #1 attack Undead's zombie #3; ATTACK CONTENT: Elf's archer #1 attack an enemy
+Undead's zombie #3 live level after attack became 43.5 HP
+ACTION NUMBER 28: Elf's warrior #3 attack Undead's hunter #2; ATTACK CONTENT: Elf's warrior #3 has attacked by sword
+Undead's hunter #2 live level after attack became 70.0 HP
+ACTION NUMBER 29: Elf's archer #3 attack Undead's hunter #1; ATTACK CONTENT: Elf's archer #3 attack an enemy
+Undead's hunter #1 live level after attack became 29.5 HP
+ACTION NUMBER 30: Elf's archer #2 attack Undead's zombie #3; ATTACK CONTENT: Elf's archer #2 attack an enemy
+Undead's zombie #3 live level after attack became 40.5 HP
+ACTION NUMBER 31: Elf's warrior #4 attack Undead's zombie #3; ATTACK CONTENT: Elf's warrior #4 has attacked by sword
+Undead's zombie #3 live level after attack became 25.5 HP
+ACTION NUMBER 32: Elf's warrior #2 attack Undead's zombie #2; ATTACK CONTENT: Elf's warrior #2 has attacked by sword
+Undead's zombie #2 live level after attack became 85.0 HP
+-----------------------------------
+Undead have 8 alive heroes
+Elf have 8 alive heroes
+ 
+Undead is attacking, step #5:
+ACTION NUMBER 33: Undead's necromancer attack Elf's archer #2; ATTACK CONTENT: Undead's necromancer has reduced force of some Enemy at next attack
+ACTION NUMBER 34: Undead's hunter #3 attack Elf's warrior #2; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+Elf's warrior #2 live level after attack became 80.0 HP
+ACTION NUMBER 35: Undead's hunter #2 attack Elf's magician; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+Elf's magician live level after attack became 80.0 HP
+ACTION NUMBER 36: Undead's zombie #3 attack Elf's archer #2; ATTACK CONTENT: Undead's zombie #3 has attacked by spear
+Elf's archer #2 live level after attack became 82.0 HP
+ACTION NUMBER 37: Undead's zombie #2 attack Elf's archer #1; ATTACK CONTENT: Undead's zombie #2 has attacked by spear
+Elf's archer #1 live level after attack became 59.0 HP
+ACTION NUMBER 38: Undead's zombie #4 attack Elf's archer #1; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+Elf's archer #1 live level after attack became 41.0 HP
+ACTION NUMBER 39: Undead's zombie #1 attack Elf's warrior #4; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+Elf's warrior #4 live level after attack became 78.0 HP
+ACTION NUMBER 40: Undead's hunter #1 attack Elf's archer #3; ATTACK CONTENT: Undead's hunter #1 attack an enemy
+Elf's archer #3 live level after attack became 98.0 HP
+-----------------------------------
+Undead have 8 alive heroes
+Elf have 8 alive heroes
+ 
+Undead is attacking, step #6:
+ACTION NUMBER 41: Undead's necromancer attack Elf's archer #3; ATTACK CONTENT: Undead's necromancer has attacked
+Elf's archer #3 live level after attack became 93.0 HP
+ACTION NUMBER 42: Undead's hunter #1 attack Elf's warrior #2; ATTACK CONTENT: Undead's hunter #1 attack an enemy
+Elf's warrior #2 live level after attack became 78.0 HP
+ACTION NUMBER 43: Undead's zombie #3 attack Elf's magician; ATTACK CONTENT: Undead's zombie #3 has attacked by spear
+Elf's magician live level after attack became 62.0 HP
+ACTION NUMBER 44: Undead's hunter #2 attack Elf's archer #1; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+Elf's archer #1 live level after attack became 39.0 HP
+ACTION NUMBER 45: Undead's zombie #1 attack Elf's archer #1; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+Elf's archer #1 live level after attack became 21.0 HP
+ACTION NUMBER 46: Undead's zombie #4 attack Elf's warrior #3; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+Elf's warrior #3 live level after attack became 64.0 HP
+ACTION NUMBER 47: Undead's hunter #3 attack Elf's archer #3; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+Elf's archer #3 live level after attack became 91.0 HP
+ACTION NUMBER 48: Undead's zombie #2 attack Elf's archer #3; ATTACK CONTENT: Undead's zombie #2 has attacked by spear
+Elf's archer #3 live level after attack became 73.0 HP
+-----------------------------------
+Undead have 8 alive heroes
+Elf have 8 alive heroes
+ 
+Undead is attacking, step #7:
+ACTION NUMBER 49: Undead's necromancer attack Elf's archer #1; ATTACK CONTENT: Undead's necromancer has reduced force of some Enemy at next attack
+ACTION NUMBER 50: Undead's zombie #2 attack Elf's archer #1; ATTACK CONTENT: Undead's zombie #2 has attacked by spear
+Elf's archer #1 live level after attack became 3.0 HP
+ACTION NUMBER 51: Undead's hunter #1 attack Elf's archer #2; ATTACK CONTENT: Undead's hunter #1 attack an enemy
+Elf's archer #2 live level after attack became 80.0 HP
+ACTION NUMBER 52: Undead's zombie #1 attack Elf's archer #2; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+Elf's archer #2 live level after attack became 62.0 HP
+ACTION NUMBER 53: Undead's hunter #2 attack Elf's archer #2; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+Elf's archer #2 live level after attack became 60.0 HP
+ACTION NUMBER 54: Undead's hunter #3 attack Elf's magician; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+Elf's magician live level after attack became 60.0 HP
+ACTION NUMBER 55: Undead's zombie #3 attack Elf's archer #2; ATTACK CONTENT: Undead's zombie #3 has attacked by spear
+Elf's archer #2 live level after attack became 42.0 HP
+ACTION NUMBER 56: Undead's zombie #4 attack Elf's magician; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+Elf's magician live level after attack became 42.0 HP
+-----------------------------------
+Undead have 8 alive heroes
+Elf have 8 alive heroes
+ 
+Elf is attacking, step #8:
+ACTION NUMBER 57: Elf's magician attack Undead's necromancer; ATTACK CONTENT: Elf's magician has made damage by magic
+Undead's necromancer live level after attack became 75.0 HP
+The next fighter has lower force due to Necromancer bane:
+ACTION NUMBER 58: Elf's archer #3 attack Undead's hunter #3; ATTACK CONTENT: Elf's archer #3 attack an enemy
+Undead's hunter #3 live level after attack became 99.0 HP
+Force of Elf's archer #3 was reduced by Necromancer bane
+ACTION NUMBER 59: Elf's warrior #1 attack Undead's necromancer; ATTACK CONTENT: Elf's warrior #1 has attacked by sword
+Undead's necromancer live level after attack became 60.0 HP
+ACTION NUMBER 60: Elf's archer #2 attack Undead's hunter #1; ATTACK CONTENT: Elf's archer #2 attack an enemy
+Undead's hunter #1 live level after attack became 26.5 HP
+ACTION NUMBER 61: Elf's warrior #4 attack Undead's zombie #4; ATTACK CONTENT: Elf's warrior #4 has attacked by sword
+Undead's zombie #4 live level after attack became 85.0 HP
+ACTION NUMBER 62: Elf's warrior #2 attack Undead's hunter #3; ATTACK CONTENT: Elf's warrior #2 has attacked by sword
+Undead's hunter #3 live level after attack became 84.0 HP
+ACTION NUMBER 63: Elf's archer #1 attack Undead's hunter #3; ATTACK CONTENT: Elf's archer #1 attack an enemy
+Undead's hunter #3 live level after attack became 81.0 HP
+ACTION NUMBER 64: Elf's warrior #3 attack Undead's necromancer; ATTACK CONTENT: Elf's warrior #3 has attacked by sword
+Undead's necromancer live level after attack became 45.0 HP
+-----------------------------------
+Undead have 8 alive heroes
+Elf have 8 alive heroes
+ 
+Undead is attacking, step #9:
+ACTION NUMBER 65: Undead's necromancer attack Elf's warrior #4; ATTACK CONTENT: Undead's necromancer has reduced force of some Enemy at next attack
+ACTION NUMBER 66: Undead's zombie #3 attack Elf's archer #2; ATTACK CONTENT: Undead's zombie #3 has attacked by spear
+Elf's archer #2 live level after attack became 24.0 HP
+ACTION NUMBER 67: Undead's zombie #2 attack Elf's warrior #4; ATTACK CONTENT: Undead's zombie #2 has attacked by spear
+Elf's warrior #4 live level after attack became 60.0 HP
+ACTION NUMBER 68: Undead's hunter #3 attack Elf's archer #3; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+Elf's archer #3 live level after attack became 71.0 HP
+ACTION NUMBER 69: Undead's zombie #4 attack Elf's warrior #2; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+Elf's warrior #2 live level after attack became 60.0 HP
+ACTION NUMBER 70: Undead's hunter #2 attack Elf's warrior #3; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+Elf's warrior #3 live level after attack became 62.0 HP
+ACTION NUMBER 71: Undead's hunter #1 attack Elf's warrior #3; ATTACK CONTENT: Undead's hunter #1 attack an enemy
+Elf's warrior #3 live level after attack became 60.0 HP
+ACTION NUMBER 72: Undead's zombie #1 attack Elf's warrior #2; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+Elf's warrior #2 live level after attack became 42.0 HP
+-----------------------------------
+Undead have 8 alive heroes
+Elf have 8 alive heroes
+ 
+Elf is attacking, step #10:
+ACTION NUMBER 73: Elf's magician attack Undead's hunter #3; ATTACK CONTENT: Elf's magician has made damage by magic
+Undead's hunter #3 live level after attack became 71.0 HP
+The next fighter has lower force due to Necromancer bane:
+ACTION NUMBER 74: Elf's archer #1 attack Undead's hunter #2; ATTACK CONTENT: Elf's archer #1 attack an enemy
+Undead's hunter #2 live level after attack became 69.0 HP
+Force of Elf's archer #1 was reduced by Necromancer bane
+ACTION NUMBER 75: Elf's archer #2 attack Undead's necromancer; ATTACK CONTENT: Elf's archer #2 attack an enemy
+Undead's necromancer live level after attack became 42.0 HP
+ACTION NUMBER 76: Elf's archer #3 attack Undead's zombie #1; ATTACK CONTENT: Elf's archer #3 attack an enemy
+Undead's zombie #1 live level after attack became 76.0 HP
+ACTION NUMBER 77: Elf's warrior #4 attack Undead's hunter #3; ATTACK CONTENT: Elf's warrior #4 has attacked by sword
+Undead's hunter #3 live level after attack became 56.0 HP
+ACTION NUMBER 78: Elf's warrior #1 attack Undead's zombie #3; ATTACK CONTENT: Elf's warrior #1 has attacked by sword
+Undead's zombie #3 live level after attack became 10.5 HP
+ACTION NUMBER 79: Elf's warrior #3 attack Undead's zombie #3; ATTACK CONTENT: Elf's warrior #3 has attacked by sword
+Undead's zombie #3 live level after attack became -4.5 HP
+Undead's zombie #3 is killed
+ACTION NUMBER 80: Elf's warrior #2 attack Undead's hunter #2; ATTACK CONTENT: Elf's warrior #2 has attacked by sword
+Undead's hunter #2 live level after attack became 54.0 HP
+-----------------------------------
+Undead have 7 alive heroes
+Elf have 8 alive heroes
+ 
+Elf is attacking, step #11:
+ACTION NUMBER 81: Elf's magician attack Undead's necromancer; ATTACK CONTENT: Elf's magician has made improvements to Elf's magician
+The next fighter from privilege group:
+ACTION NUMBER 82: Elf's magician attack Undead's hunter #3; ATTACK CONTENT: Elf's magician has made improvements to Elf's warrior #2
+The next fighter from privilege group:
+ACTION NUMBER 83: Elf's warrior #2 attack Undead's hunter #2; ATTACK CONTENT: Elf's warrior #2 has attacked by sword
+Undead's hunter #2 live level after attack became 31.5 HP
+ACTION NUMBER 84: Elf's warrior #1 attack Undead's hunter #2; ATTACK CONTENT: Elf's warrior #1 has attacked by sword
+Undead's hunter #2 live level after attack became 16.5 HP
+ACTION NUMBER 85: Elf's archer #2 attack Undead's hunter #3; ATTACK CONTENT: Elf's archer #2 attack an enemy
+Undead's hunter #3 live level after attack became 53.0 HP
+ACTION NUMBER 86: Elf's warrior #4 attack Undead's zombie #2; ATTACK CONTENT: Elf's warrior #4 has attacked by sword
+Undead's zombie #2 live level after attack became 70.0 HP
+ACTION NUMBER 87: Elf's warrior #2 attack Undead's hunter #1; ATTACK CONTENT: Elf's warrior #2 has attacked by sword
+Undead's hunter #1 live level after attack became 11.5 HP
+ACTION NUMBER 88: Elf's warrior #3 attack Undead's hunter #1; ATTACK CONTENT: Elf's warrior #3 has attacked by sword
+Undead's hunter #1 live level after attack became -3.5 HP
+Undead's hunter #1 is killed
+ACTION NUMBER 89: Elf's archer #1 attack Undead's zombie #4; ATTACK CONTENT: Elf's archer #1 attack an enemy
+Undead's zombie #4 live level after attack became 82.0 HP
+ACTION NUMBER 90: Elf's archer #3 attack Undead's hunter #3; ATTACK CONTENT: Elf's archer #3 attack an enemy
+Undead's hunter #3 live level after attack became 50.0 HP
+-----------------------------------
+Undead have 6 alive heroes
+Elf have 8 alive heroes
+ 
+Elf is attacking, step #12:
+ACTION NUMBER 91: Elf's magician attack Undead's zombie #2; ATTACK CONTENT: Elf's magician has made damage by magic
+Undead's zombie #2 live level after attack became 60.0 HP
+ACTION NUMBER 92: Elf's warrior #3 attack Undead's zombie #2; ATTACK CONTENT: Elf's warrior #3 has attacked by sword
+Undead's zombie #2 live level after attack became 45.0 HP
+ACTION NUMBER 93: Elf's archer #2 attack Undead's necromancer; ATTACK CONTENT: Elf's archer #2 attack an enemy
+Undead's necromancer live level after attack became 39.0 HP
+ACTION NUMBER 94: Elf's archer #3 attack Undead's hunter #3; ATTACK CONTENT: Elf's archer #3 attack an enemy
+Undead's hunter #3 live level after attack became 47.0 HP
+ACTION NUMBER 95: Elf's warrior #4 attack Undead's necromancer; ATTACK CONTENT: Elf's warrior #4 has attacked by sword
+Undead's necromancer live level after attack became 24.0 HP
+ACTION NUMBER 96: Elf's archer #1 attack Undead's zombie #1; ATTACK CONTENT: Elf's archer #1 attack an enemy
+Undead's zombie #1 live level after attack became 73.0 HP
+ACTION NUMBER 97: Elf's warrior #2 attack Undead's zombie #2; ATTACK CONTENT: Elf's warrior #2 has attacked by sword
+Undead's zombie #2 live level after attack became 30.0 HP
+ACTION NUMBER 98: Elf's warrior #1 attack Undead's hunter #3; ATTACK CONTENT: Elf's warrior #1 has attacked by sword
+Undead's hunter #3 live level after attack became 32.0 HP
+-----------------------------------
+Undead have 6 alive heroes
+Elf have 8 alive heroes
+ 
+Undead is attacking, step #13:
+ACTION NUMBER 99: Undead's necromancer attack Elf's warrior #4; ATTACK CONTENT: Undead's necromancer has attacked
+Elf's warrior #4 live level after attack became 55.0 HP
+ACTION NUMBER 100: Undead's zombie #2 attack Elf's archer #1; ATTACK CONTENT: Undead's zombie #2 has attacked by spear
+Elf's archer #1 live level after attack became -15.0 HP
+Elf's archer #1 is killed
+ACTION NUMBER 101: Undead's hunter #3 attack Elf's warrior #4; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+Elf's warrior #4 live level after attack became 53.0 HP
+ACTION NUMBER 102: Undead's zombie #4 attack Elf's archer #2; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+Elf's archer #2 live level after attack became 6.0 HP
+ACTION NUMBER 103: Undead's hunter #2 attack Elf's warrior #3; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+Elf's warrior #3 live level after attack became 58.0 HP
+ACTION NUMBER 104: Undead's zombie #1 attack Elf's archer #3; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+Elf's archer #3 live level after attack became 53.0 HP
+-----------------------------------
+Undead have 6 alive heroes
+Elf have 7 alive heroes
+ 
+Undead is attacking, step #14:
+ACTION NUMBER 105: Undead's necromancer attack Elf's warrior #4; ATTACK CONTENT: Undead's necromancer has attacked
+Elf's warrior #4 live level after attack became 48.0 HP
+ACTION NUMBER 106: Undead's hunter #3 attack Elf's warrior #1; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+Elf's warrior #1 live level after attack became 96.0 HP
+ACTION NUMBER 107: Undead's zombie #2 attack Elf's warrior #1; ATTACK CONTENT: Undead's zombie #2 has attacked by spear
+Elf's warrior #1 live level after attack became 78.0 HP
+ACTION NUMBER 108: Undead's zombie #1 attack Elf's archer #3; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+Elf's archer #3 live level after attack became 35.0 HP
+ACTION NUMBER 109: Undead's zombie #4 attack Elf's archer #3; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+Elf's archer #3 live level after attack became 17.0 HP
+ACTION NUMBER 110: Undead's hunter #2 attack Elf's warrior #3; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+Elf's warrior #3 live level after attack became 56.0 HP
+-----------------------------------
+Undead have 6 alive heroes
+Elf have 7 alive heroes
+ 
+Undead is attacking, step #15:
+ACTION NUMBER 111: Undead's necromancer attack Elf's archer #2; ATTACK CONTENT: Undead's necromancer has reduced force of some Enemy at next attack
+ACTION NUMBER 112: Undead's zombie #2 attack Elf's archer #2; ATTACK CONTENT: Undead's zombie #2 has attacked by spear
+Elf's archer #2 live level after attack became -12.0 HP
+Elf's archer #2 is killed
+ACTION NUMBER 113: Undead's hunter #3 attack Elf's warrior #1; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+Elf's warrior #1 live level after attack became 76.0 HP
+ACTION NUMBER 114: Undead's zombie #1 attack Elf's magician; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+Elf's magician live level after attack became 24.0 HP
+ACTION NUMBER 115: Undead's hunter #2 attack Elf's archer #3; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+Elf's archer #3 live level after attack became 15.0 HP
+ACTION NUMBER 116: Undead's zombie #4 attack Elf's magician; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+Elf's magician live level after attack became 6.0 HP
+-----------------------------------
+Undead have 6 alive heroes
+Elf have 6 alive heroes
+ 
+Undead is attacking, step #16:
+ACTION NUMBER 117: Undead's necromancer attack Elf's archer #3; ATTACK CONTENT: Undead's necromancer has attacked
+Elf's archer #3 live level after attack became 10.0 HP
+ACTION NUMBER 118: Undead's zombie #4 attack Elf's warrior #3; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+Elf's warrior #3 live level after attack became 38.0 HP
+ACTION NUMBER 119: Undead's zombie #1 attack Elf's warrior #1; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+Elf's warrior #1 live level after attack became 58.0 HP
+ACTION NUMBER 120: Undead's hunter #3 attack Elf's archer #3; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+Elf's archer #3 live level after attack became 8.0 HP
+ACTION NUMBER 121: Undead's zombie #2 attack Elf's archer #3; ATTACK CONTENT: Undead's zombie #2 has attacked by spear
+Elf's archer #3 live level after attack became -10.0 HP
+Elf's archer #3 is killed
+ACTION NUMBER 122: Undead's hunter #2 attack Elf's warrior #2; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+Elf's warrior #2 live level after attack became 40.0 HP
+-----------------------------------
+Undead have 6 alive heroes
+Elf have 5 alive heroes
+ 
+Undead is attacking, step #17:
+ACTION NUMBER 123: Undead's necromancer attack Elf's warrior #1; ATTACK CONTENT: Undead's necromancer has reduced force of some Enemy at next attack
+ACTION NUMBER 124: Undead's hunter #2 attack Elf's warrior #3; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+Elf's warrior #3 live level after attack became 36.0 HP
+ACTION NUMBER 125: Undead's hunter #3 attack Elf's warrior #3; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+Elf's warrior #3 live level after attack became 34.0 HP
+ACTION NUMBER 126: Undead's zombie #4 attack Elf's warrior #1; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+Elf's warrior #1 live level after attack became 40.0 HP
+ACTION NUMBER 127: Undead's zombie #2 attack Elf's warrior #2; ATTACK CONTENT: Undead's zombie #2 has attacked by spear
+Elf's warrior #2 live level after attack became 22.0 HP
+ACTION NUMBER 128: Undead's zombie #1 attack Elf's warrior #4; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+Elf's warrior #4 live level after attack became 30.0 HP
+-----------------------------------
+Undead have 6 alive heroes
+Elf have 5 alive heroes
+ 
+Elf is attacking, step #18:
+ACTION NUMBER 129: Elf's magician attack Undead's zombie #1; ATTACK CONTENT: Elf's magician has made damage by magic
+Undead's zombie #1 live level after attack became 63.0 HP
+The next fighter has lower force due to Necromancer bane:
+ACTION NUMBER 130: Elf's warrior #3 attack Undead's hunter #2; ATTACK CONTENT: Elf's warrior #3 has attacked by sword
+Undead's hunter #2 live level after attack became 9.5 HP
+Force of Elf's warrior #3 was reduced by Necromancer bane
+ACTION NUMBER 131: Elf's warrior #2 attack Undead's zombie #4; ATTACK CONTENT: Elf's warrior #2 has attacked by sword
+Undead's zombie #4 live level after attack became 67.0 HP
+ACTION NUMBER 132: Elf's warrior #4 attack Undead's necromancer; ATTACK CONTENT: Elf's warrior #4 has attacked by sword
+Undead's necromancer live level after attack became 9.0 HP
+ACTION NUMBER 133: Elf's warrior #1 attack Undead's zombie #4; ATTACK CONTENT: Elf's warrior #1 has attacked by sword
+Undead's zombie #4 live level after attack became 52.0 HP
+-----------------------------------
+Undead have 6 alive heroes
+Elf have 5 alive heroes
+ 
+Elf is attacking, step #19:
+ACTION NUMBER 134: Elf's magician attack Undead's zombie #4; ATTACK CONTENT: Elf's magician has made damage by magic
+Undead's zombie #4 live level after attack became 42.0 HP
+ACTION NUMBER 135: Elf's warrior #2 attack Undead's hunter #3; ATTACK CONTENT: Elf's warrior #2 has attacked by sword
+Undead's hunter #3 live level after attack became 17.0 HP
+ACTION NUMBER 136: Elf's warrior #4 attack Undead's zombie #2; ATTACK CONTENT: Elf's warrior #4 has attacked by sword
+Undead's zombie #2 live level after attack became 15.0 HP
+ACTION NUMBER 137: Elf's warrior #1 attack Undead's zombie #4; ATTACK CONTENT: Elf's warrior #1 has attacked by sword
+Undead's zombie #4 live level after attack became 27.0 HP
+ACTION NUMBER 138: Elf's warrior #3 attack Undead's zombie #1; ATTACK CONTENT: Elf's warrior #3 has attacked by sword
+Undead's zombie #1 live level after attack became 48.0 HP
+-----------------------------------
+Undead have 6 alive heroes
+Elf have 5 alive heroes
+ 
+Undead is attacking, step #20:
+ACTION NUMBER 139: Undead's necromancer attack Elf's warrior #2; ATTACK CONTENT: Undead's necromancer has reduced force of some Enemy at next attack
+ACTION NUMBER 140: Undead's zombie #1 attack Elf's warrior #3; ATTACK CONTENT: Undead's zombie #1 has attacked by spear
+Elf's warrior #3 live level after attack became 16.0 HP
+ACTION NUMBER 141: Undead's hunter #3 attack Elf's warrior #3; ATTACK CONTENT: Undead's hunter #3 attack an enemy
+Elf's warrior #3 live level after attack became 14.0 HP
+ACTION NUMBER 142: Undead's hunter #2 attack Elf's magician; ATTACK CONTENT: Undead's hunter #2 attack an enemy
+Elf's magician live level after attack became 4.0 HP
+ACTION NUMBER 143: Undead's zombie #4 attack Elf's warrior #2; ATTACK CONTENT: Undead's zombie #4 has attacked by spear
+Elf's warrior #2 live level after attack became 4.0 HP
+ACTION NUMBER 144: Undead's zombie #2 attack Elf's warrior #3; ATTACK CONTENT: Undead's zombie #2 has attacked by spear
+Elf's warrior #3 live level after attack became -4.0 HP
+Elf's warrior #3 is killed
+-----------------------------------
+Undead have 6 alive heroes
+Elf have 4 alive heroes
+ 
+Elf is attacking, step #21:
+ACTION NUMBER 145: Elf's magician attack Undead's hunter #2; ATTACK CONTENT: Elf's magician has made damage by magic
+Undead's hunter #2 live level after attack became -0.5 HP
+Undead's hunter #2 is killed
+The next fighter has lower force due to Necromancer bane:
+ACTION NUMBER 146: Elf's warrior #4 attack Undead's necromancer; ATTACK CONTENT: Elf's warrior #4 has attacked by sword
+Undead's necromancer live level after attack became 2.0 HP
+Force of Elf's warrior #4 was reduced by Necromancer bane
+ACTION NUMBER 147: Elf's warrior #1 attack Undead's zombie #2; ATTACK CONTENT: Elf's warrior #1 has attacked by sword
+Undead's zombie #2 live level after attack became 0.0 HP
+Undead's zombie #2 is killed
+ACTION NUMBER 148: Elf's warrior #2 attack Undead's necromancer; ATTACK CONTENT: Elf's warrior #2 has attacked by sword
+Undead's necromancer live level after attack became -13.0 HP
+Undead's necromancer is killed
+-----------------------------------
+Undead have 3 alive heroes
+Elf have 4 alive heroes
+ 
+Elf is attacking, step #22:
+ACTION NUMBER 149: Elf's magician attack Undead's hunter #3; ATTACK CONTENT: Elf's magician has made damage by magic
+Undead's hunter #3 live level after attack became 7.0 HP
+ACTION NUMBER 150: Elf's warrior #4 attack Undead's zombie #4; ATTACK CONTENT: Elf's warrior #4 has attacked by sword
+Undead's zombie #4 live level after attack became 12.0 HP
+ACTION NUMBER 151: Elf's warrior #2 attack Undead's hunter #3; ATTACK CONTENT: Elf's warrior #2 has attacked by sword
+Undead's hunter #3 live level after attack became -8.0 HP
+Undead's hunter #3 is killed
+ACTION NUMBER 152: Elf's warrior #1 attack Undead's zombie #1; ATTACK CONTENT: Elf's warrior #1 has attacked by sword
+Undead's zombie #1 live level after attack became 33.0 HP
+-----------------------------------
+Undead have 2 alive heroes
+Elf have 4 alive heroes
+ 
+Elf is attacking, step #23:
+ACTION NUMBER 153: Elf's magician attack Undead's zombie #4; ATTACK CONTENT: Elf's magician has made improvements to Elf's magician
+The next fighter from privilege group:
+ACTION NUMBER 154: Elf's magician attack Undead's zombie #4; ATTACK CONTENT: Elf's magician has made improvements to Elf's warrior #4
+The next fighter from privilege group:
+ACTION NUMBER 155: Elf's warrior #4 attack Undead's zombie #4; ATTACK CONTENT: Elf's warrior #4 has attacked by sword
+Undead's zombie #4 live level after attack became -10.5 HP
+Undead's zombie #4 is killed
+ACTION NUMBER 156: Elf's warrior #2 attack Undead's zombie #1; ATTACK CONTENT: Elf's warrior #2 has attacked by sword
+Undead's zombie #1 live level after attack became 18.0 HP
+ACTION NUMBER 157: Elf's warrior #4 attack Undead's zombie #1; ATTACK CONTENT: Elf's warrior #4 has attacked by sword
+Undead's zombie #1 live level after attack became 3.0 HP
+ACTION NUMBER 158: Elf's warrior #1 attack Undead's zombie #1; ATTACK CONTENT: Elf's warrior #1 has attacked by sword
+Undead's zombie #1 live level after attack became -12.0 HP
+Undead's zombie #1 is killed
+-----------------------------------
+Undead have 0 alive heroes
+Elf have 4 alive heroes
+ 
+!!! Game Over !!!
+!!!Elf are winners!!!
+At winners army have left alive are:
+Elf's magician with live level 4.0 HP
+Elf's warrior #1 with live level 40.0 HP
+Elf's warrior #2 with live level 4.0 HP
+Elf's warrior #4 with live level 30.0 HP
