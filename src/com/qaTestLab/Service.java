@@ -1,13 +1,14 @@
 package com.qaTestLab;
 
 
-
+import java.util.Map;
 import java.util.Random;
+import java.util.Set;
 
 
 public class Service {
 
-    Random random = new Random();
+    private Random random = new Random();
     private int actionNumber = 0;
     private String attackingSide;
     private boolean voodooBane = false;
@@ -20,10 +21,8 @@ public class Service {
         boolean isDead;
 
         if (armyVictim.aliveHeroes.length == 0) { // check if some Heroes is still alive
-            Main.outputPrintln(" ");
-            Main.outputPrintln("!!! Game Over !!!");
-            Main.outputPrintln("!!!" + armyFighter.getName() + " are winners!!!");
-            if (Main.logfile != null){
+            printStatisticAfterGame(armyFighter, armyVictim);
+            if (Main.logfile != null) {
                 Main.logfile.close();
             }
             System.exit(0);
@@ -153,13 +152,32 @@ public class Service {
                 attack(anotherSide, oneSide);
             }
             Main.outputPrintln("-----------------------------------");
-            Main.outputPrintln(oneSide.getName() + " have "  + oneSide.mapArmy.size() + " alive heroes");
+            Main.outputPrintln(oneSide.getName() + " have " + oneSide.mapArmy.size() + " alive heroes");
             Main.outputPrintln(anotherSide.getName() + " have " + anotherSide.mapArmy.size() + " alive heroes");
         } while (oneSide.mapArmy.size() != 0 && anotherSide.mapArmy.size() != 0);
 
+
+        printStatisticAfterGame(oneSide, anotherSide);
+    }
+
+    private void printStatisticAfterGame(Army oneSide, Army anotherSide) {
         Main.outputPrintln(" ");
         Main.outputPrintln("!!! Game Over !!!");
-        Main.outputPrintln("!!!" + attackingSide + " are winners!!!");
+        if (oneSide.mapArmy.size() != 0) {
+            Main.outputPrintln("!!!" + oneSide.getName() + " are winners!!!");
+            Main.outputPrintln("At winners army have left alive are:");
+            Set<Map.Entry<Integer, Entity>> entries = oneSide.mapArmy.entrySet();
+            for (Map.Entry<Integer, Entity> entry : entries) {
+                Main.outputPrintln(entry.getValue().getName() + " with live level " + entry.getValue().getLiveLevel() + " HP");
+            }
+        } else {
+            Main.outputPrintln("!!!" + anotherSide.getName() + " are winners!!!");
+            Main.outputPrintln("At winners army have left alive are:");
+            for (Map.Entry<Integer, Entity> entry : anotherSide.mapArmy.entrySet()) {
+                Main.outputPrintln(entry.getValue().getName() + " with live level " + entry.getValue().getLiveLevel() + " HP");
+
+            }
+        }
     }
 
 
