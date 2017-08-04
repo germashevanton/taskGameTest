@@ -4,9 +4,9 @@ import java.util.Random;
 
 
 public abstract class Entity {
-    private String name;
-    private int heroNumber;
-    private double liveLevel = 100;
+    protected String name;
+    protected int heroNumber;
+    protected double liveLevel = 100;
     public Entity(String name, int heroNumber){
         this.name = name;
         this.heroNumber = heroNumber;
