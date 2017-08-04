@@ -12,7 +12,7 @@ import java.util.Random;
 public class Main {
 
     // LogFile
-    private static PrintWriter logfile;
+    public static PrintWriter logfile;
 
     // write to the file and console using print
     public static void outputPrint(final String str) {
